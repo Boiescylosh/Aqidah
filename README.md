@@ -1,6 +1,6 @@
 SCRIPT
 
-$ git clonehttps://github.com/Boiescylosh/Aqidah.git
+$ git clone https://github.com/Boiescylosh/Aqidah.git
 
 $ cd Aqidah
 
