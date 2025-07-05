@@ -6,6 +6,6 @@ $ cd Aqidah
 
 $ ls
 
-$ Aqidah.py
+$ python Aqidah.py
 
 Copy teksnya sesudah ikon $ lalu paste tiap teksnya di TERMUX
